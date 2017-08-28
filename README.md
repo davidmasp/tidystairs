@@ -17,4 +17,4 @@ ir = iris %>% create_stairs() %>%
 plot_stairs(ir)
 ```
 
-![example_plot]("Rplot.png")
+![example_plot](Rplot.png)
